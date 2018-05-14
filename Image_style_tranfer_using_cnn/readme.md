@@ -1,8 +1,6 @@
 # Image Style Transfer
 
-This is the academic research project for studying Image Style Transfer and effects of changing the architecture of VGG and transform networks.
-
-
+This is the academic research project for studying Image Style Transfer and effects of changing the architecture of VGG and transform networks, and effects of batch vs instance normalization.
 
 # Requirements
 
@@ -25,5 +23,5 @@ OUTPUT_PATH = './output/'
 * [Tanmay Bhatt](https://www.github.com/TanmayAB)
 
 ## Attributions/Thanks
-* The project also borrowed some code (in VGG network) from Anish's [Neural Style](https://github.com/anishathalye/neural-style/)
+* The project also borrowed some code (in VGG network) from Anish's [Neural Style](https://github.com/anishathalye/neural-style/).
 * We also refereed lengstorm's [Image Style Transfer](https://github.com/lengstrom/fast-style-transfer) for Instance normalization approach.
