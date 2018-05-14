@@ -15,7 +15,7 @@ VGG_PATH = './imagenet-vgg-verydeep-19.mat'
 TRAIN_PATH = './train_sample/'
 STYLE_PATH = './style/wave.jpg'
 
-TEST_IMAGE_PATH = './test_images/stata.jpg'
+TEST_IMAGE_PATH = './test_images/batsman.jpg'
 OUTPUT_PATH = './output/'
 ```
 
@@ -26,4 +26,4 @@ OUTPUT_PATH = './output/'
 
 ## Attributions/Thanks
 * The project also borrowed some code (in VGG network) from Anish's [Neural Style](https://github.com/anishathalye/neural-style/)
-* We also refereed lengstorm's [Image Style Transfer](https://github.com/lengstrom/fast-style-transfer) for Instance normalization approach and loss optimization.
+* We also refereed lengstorm's [Image Style Transfer](https://github.com/lengstrom/fast-style-transfer) for Instance normalization approach.
