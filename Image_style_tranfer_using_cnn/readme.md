@@ -5,7 +5,7 @@ This is the academic research project for studying Image Style Transfer and effe
 # Requirements
 
 * Please download [Pretrained VGG network](http://www.vlfeat.org/matconvnet/models/beta16/imagenet-vgg-verydeep-19.mat)
-* Set following paths in the 'Image_style_transfer_final_project.py' or Image_style_transfer_final_project.ipynb' file pointing to all the directories and file locations.
+* Set following paths in the 'Fast_image_style_transfer_project.py' or Fast_image_style_transfer_project.ipynb' file pointing to all the directories and file locations.
 
 ```
 MODEL_SAVE_PATH = './saved_model/fns.ckpt'
@@ -18,8 +18,8 @@ OUTPUT_PATH = './output/'
 ```
 
 ### Project members
-* Aravinda Misra
-* Saurabh Deshmukh 
+* [Aravinda Misra](https://github.com/airwind11)
+* [Saurabh Deshmukh](https://github.com/saurdeshmukh)
 * [Tanmay Bhatt](https://www.github.com/TanmayAB)
 
 ## Attributions/Thanks
